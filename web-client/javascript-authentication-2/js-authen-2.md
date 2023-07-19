@@ -14,7 +14,7 @@
 ***view***   
 View source js file at `view-source:http://challenge01.root-me.org/web-client/ch11/login.js` 
 We can see 
-```
+```javascript
 function connexion(){
     var username = prompt("Username :", "");
     var password = prompt("Password :", "");

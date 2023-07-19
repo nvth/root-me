@@ -14,7 +14,7 @@
 ***view***  
 View source js file at `vview-source:http://challenge01.root-me.org/web-client/ch4/ch4.html` 
 We can see script html tags
-```  
+```javascript  
 <script type="text/javascript">
               /* <![CDATA[ */
 

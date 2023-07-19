@@ -15,7 +15,7 @@
 View source js file at `http://challenge01.root-me.org/web-client/ch9/login.js` 
 We can see at if-else conditional of Login function, username and password be hashed on this javascript to login.  
 
-```
+```javascript
 /* <![CDATA[ */
 
 function Login(){
