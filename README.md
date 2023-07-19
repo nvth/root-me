@@ -13,7 +13,7 @@ Template using writeup:
 
 **Vulnerabilities Fix** : N/A
 
-**Severity** : Critical
+**Severity** : <span style="color: red">Critical</span> 
 
 </br >
 
