@@ -9,22 +9,5 @@
 -   [Javascript Offucation](https://github.com/nvth/root-me/blob/master/web-client/javascript-offucation/js-off.md)
 -   []()
 
-## Template using writeup:
-
-
-**Vulnerability Exploited** : Authentication
-
-**System Vulnerabilities**: Javascript - Authentication
-
-**Vulnerabilities Explaination** : Javascript using for login containt use name and password for access this system
-
-**Previlege Escalation Vulnerabilities**: N/A
-
-**Vulnerabilities Fix** : N/A
-
-**Severity** : <span style="color: red">Critical</span> 
-
-**Detail** 
-
-
-or High, Medium, Low, Info
+## Others
+- [Template Writeup](https://github.com/nvth/root-me/blob/master/template.md)
