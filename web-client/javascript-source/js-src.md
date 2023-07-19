@@ -2,7 +2,7 @@
 
 **System Vulnerabilities**: Javascript Source
 
-**Vulnerabilities Explaination** : Javascript using for login containt use name and password for access this system
+**Vulnerabilities Explaination** : Javascript using for login contain username and password for access this system
 
 **Previlege Escalation Vulnerabilities**: N/A
 
