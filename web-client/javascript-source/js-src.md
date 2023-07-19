@@ -1,11 +1,6 @@
-# root-me
-
-Template using writeup:
-
-
 **Vulnerability Exploited** : Authentication
 
-**System Vulnerabilities**: Javascript - Authentication
+**System Vulnerabilities**: Javascript Source
 
 **Vulnerabilities Explaination** : Javascript using for login containt use name and password for access this system
 
@@ -15,7 +10,6 @@ Template using writeup:
 
 **Severity** : Critical
 
-**Detail** 
-
-
-or High, Medium, Low, Info
+**Detail**  
+***view***
+View source this website we can see `js` use to login on this server, use credentials contain on `script` tags to get flags
