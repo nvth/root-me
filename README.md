@@ -24,3 +24,5 @@ Mã màu cho Severity:
 <span style="color: blue">Low</span>  
 <span style="color: green">Info</span>  
 
+$${\color{red}Red}$$
+
