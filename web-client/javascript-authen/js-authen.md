@@ -1,8 +1,3 @@
-# root-me
-
-Template using writeup:
-
-
 **Vulnerability Exploited** : Authentication
 
 **System Vulnerabilities**: Javascript - Authentication
@@ -14,13 +9,3 @@ Template using writeup:
 **Vulnerabilities Fix** : N/A
 
 **Severity** : Critical
-
-</br >
-
-Mã màu cho Severity:  
-<span style="color: red">Critical</span>  
-<span style="color: orange">High</span>  
-<span style="color: yellow">Medium</span>  
-<span style="color: blue">Low</span>  
-<span style="color: green">Info</span>  
-
